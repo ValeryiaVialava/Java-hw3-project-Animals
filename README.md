@@ -1,6 +1,6 @@
 #### **TASK**
 
-![[cache/кэш Java project Animals.png|500]]
+![[кэш Java project Animals.png|500]]
 
 the Animal Class should include:
 - Field: `weight`
